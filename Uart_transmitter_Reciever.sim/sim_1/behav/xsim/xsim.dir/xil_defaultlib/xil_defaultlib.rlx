@@ -1,0 +1,10 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sim_1/new/uart_tb.sv,1740785341,systemVerilog,,,,uart_tb,,,,,,,,
+D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/baud_rate_generator.sv,1740785248,systemVerilog,,D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_receiver.sv,,baud_rate_generator,,,,,,,,
+D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_receiver.sv,1740785287,systemVerilog,,D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_top.sv,,uart_receiver,,,,,,,,
+D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_top.sv,1740785396,systemVerilog,,D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_transmitter.sv,,uart_top,,,,,,,,
+D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_transmitter.sv,1740785433,systemVerilog,,D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sim_1/new/uart_tb.sv,,uart_transmitter,,,,,,,,

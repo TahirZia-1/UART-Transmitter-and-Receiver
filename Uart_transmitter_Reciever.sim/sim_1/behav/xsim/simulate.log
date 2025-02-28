@@ -1,0 +1,5 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Time:                    0, TX: 1, RX: 1, TX_Busy: 0, RX_Done: 0, RX_Data: 0x00
+Time:               305000, TX: 1, RX: 1, TX_Busy: 1, RX_Done: 0, RX_Data: 0x00
+Time:               315000, TX: 0, RX: 1, TX_Busy: 1, RX_Done: 0, RX_Data: 0x00

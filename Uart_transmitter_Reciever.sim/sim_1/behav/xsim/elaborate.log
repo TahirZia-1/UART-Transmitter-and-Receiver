@@ -1,0 +1,20 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 595b346343984401b02d166761bfed03 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot uart_tb_behav xil_defaultlib.uart_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_top.sv" Line 1. Module uart_top(BAUD_RATE=115200) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/baud_rate_generator.sv" Line 1. Module baud_rate_generator(BAUD_RATE=115200) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_transmitter.sv" Line 1. Module uart_transmitter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/VivadoFiles/Uart_transmitter_Reciever/Uart_transmitter_Reciever.srcs/sources_1/new/uart_receiver.sv" Line 1. Module uart_receiver doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.baud_rate_generator(BAUD_RATE=11...
+Compiling module xil_defaultlib.uart_transmitter
+Compiling module xil_defaultlib.uart_receiver
+Compiling module xil_defaultlib.uart_top(BAUD_RATE=115200)
+Compiling module xil_defaultlib.uart_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot uart_tb_behav
