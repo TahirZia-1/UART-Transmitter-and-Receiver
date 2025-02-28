@@ -1,4 +1,5 @@
 # FPGA UART Implementation
+## The source files (Design and Testbench) are in "Uart_transmitter_Reciever.srcs" folder
 
 A complete UART (Universal Asynchronous Receiver/Transmitter) implementation for FPGAs, written in Verilog HDL. This project includes transmitter and receiver modules, baud rate generation, and test infrastructure for both simulation and hardware validation.
 
